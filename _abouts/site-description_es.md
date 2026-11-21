@@ -1,8 +1,8 @@
 ---
-title: description
+title: lalala
 lang: es
 ---
-Esta es una muestra de un sitio hecho con Refracta: una herramienta de código abierto para generar catálogos digitales de bajo costo para colecciones artísticas y de patrimonio digital. 
+jafnsjkvnjksbnjknvfjkc
 
 <!-- more -->
 
