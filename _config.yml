@@ -6,7 +6,7 @@ image: avatar.png  # Add a file with a copy of your site's avatar on /assets/img
 email: refractaservicio@gmail.com
 github: refractaservicio
 twitter:
-instagram: daniela.acosta.parsons
+instagram:
 podcast: # Set to true if you want to enable podcast or blog support
 jotform: 
 bsky: 
@@ -17,7 +17,7 @@ lang: es
 biba: true # Set to true if you want to enable Biblioteca Abierta features
 # If you want to change the name of the repo, update the BASE_PATH name. Also, if you are going to use the MOREL repo as your main github page (e.g. `myuser.github.io`) comment this line
 
-BASE_PATH:"/lalala"
+BASE_PATH: "/lalala"
 
 # ADD AN X OR DELETE IT AND COMMIT IN ORDER TO UPDATE YOUR SITE
 
